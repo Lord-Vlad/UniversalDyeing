@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "group": "gray_wool",
+    "pattern": [
+        "XXX",
+        "XZX",
+        "XXX"
+    ],
+    "key": {
+        "X": {
+            "tag": "minecraft:wool"
+        },
+        "Z": {
+            "item": "minecraft:gray_dye"
+        }
+    }, 
+    "result": {
+        "item": "minecraft:gray_wool",
+        "count": 8
+    }
+}
