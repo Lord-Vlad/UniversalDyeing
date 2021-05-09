@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "carpet",
+  "ingredients": [
+    {
+      "item": "minecraft:white_dye"
+    },
+    {
+      "tag": "unidye:carpet"
+    }
+  ],
+  "result": {
+    "item": "minecraft:white_carpet"
+  }
+}
